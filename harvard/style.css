@@ -1,0 +1,28 @@
+@import 'https://fonts.google.com/specimen/K2D?selection.family=K2D';
+
+body {
+    color: white;
+    font-family: 'K2D', sans-serif;
+    font-size: 100%;
+    background: #A41034;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'K2D', sans-serif;
+    color: "#0D5BFF";
+    text-align: center;
+}
+
+p {
+    font-family: 'K2D', sans-serif;
+    text-align: center;
+}
+
+#resultsdiv{
+    text-align: center;
+}
+
+#searchbox{
+    text-align: center;
+}
